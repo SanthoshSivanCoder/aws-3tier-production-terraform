@@ -44,7 +44,7 @@ The infrastructure is designed following cloud best practices:
 ├── outputs.tf
 ├── terraform.tfvars
 ```
---
+---
 ## 🌍 Architecture Diagram
 
                                ┌───────────────────────┐
