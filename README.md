@@ -31,7 +31,8 @@ The infrastructure is designed following cloud best practices:
 
 ---
 ## 📂 Project Structure
-.
+
+```
 ├── modules/
 │ ├── vpc/
 │ ├── alb/
@@ -42,7 +43,7 @@ The infrastructure is designed following cloud best practices:
 ├── variables.tf
 ├── outputs.tf
 ├── terraform.tfvars
-
+```
 --
 ## 🌍 Architecture Diagram
 
