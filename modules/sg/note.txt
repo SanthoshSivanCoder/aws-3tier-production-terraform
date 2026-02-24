@@ -1,0 +1,2 @@
+Resource Loop	Creates multiple Security Groups	each.value
+Dynamic Block	Creates multiple Rules inside one Group	[block_name].value
