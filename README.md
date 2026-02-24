@@ -27,7 +27,6 @@ The infrastructure is designed following cloud best practices:
 - Amazon RDS (MySQL)
 - NAT Gateway
 - Internet Gateway
-- CloudWatch (Monitoring)
 
 ---
 ## 📂 Project Structure
